@@ -46,3 +46,7 @@ printf("%dinromannumeralsisX",num);
 break;
 default:
 printf("Pleaseenteranumberbetween1and10");
+break;
+}
+return0;
+}
