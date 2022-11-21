@@ -15,3 +15,8 @@ printf("Error!");
 switch(number)
 {
 case1:
+printf("%dinromannumeralsisI",num);
+break;
+case2:
+printf("%dinromannumeralsisII",num);
+break;
