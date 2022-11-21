@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<stdlib.h>
+intmain()
+{
+intnum;
+printf("Enteranumberbetween1and10;");
+scanf("%d",&num);
+if(num>=1&&num<=10){
+printf("Yournumberis%d\n",num);
+}
+else{
+
+printf("Error!");
+}
+switch(number)
+{
+case1:
