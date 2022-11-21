@@ -33,3 +33,7 @@ case6:
 printf("%dinromannumeralsisVI",num);
 break;
 case7:
+printf("%dinromannumeralsisVII",num);
+break;
+case8:
+printf("%dinromannumeralsisVIII",num);
