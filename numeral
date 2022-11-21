@@ -20,3 +20,16 @@ break;
 case2:
 printf("%dinromannumeralsisII",num);
 break;
+case3:
+printf("%dinromannumeralsisIII",num);
+break;
+case4:
+printf("%dinromannumeralsisIV",num);
+break;
+case5:
+printf("%dinromannumeralsisV",num);
+break;
+case6:
+printf("%dinromannumeralsisVI",num);
+break;
+case7:
