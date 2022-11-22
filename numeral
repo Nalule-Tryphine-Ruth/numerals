@@ -46,7 +46,7 @@ case10:
 printf("%dinromannumeralsisX",num);
 break;
 default:
-printf("Pleaseenteranumberbetween1and10");
+printf("Please enter a number between 1and10");
 break;
 }
 return0;
