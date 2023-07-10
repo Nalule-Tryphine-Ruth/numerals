@@ -2,6 +2,7 @@
 #include<stdlib.h>
 intmain()
 {
+//initializing
 intnum;
 printf("Enteranumberbetween1and10;");
 scanf("%d",&num);
